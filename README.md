@@ -2,9 +2,9 @@
 
 <!-- ### Introduction -->
 - I am a MSc student in Vehicle Engineering at [Delft University of Technology](https://www.tudelft.nl/).
-- Currently working on my thesis on 3D Human Pose Estimation, supervised by [Jens Kober](https://www.tudelft.nl/staff/j.kober/) and [Osama Mazhar](https://www.tudelft.nl/staff/o.mazhar/).
+- Currently working on my thesis 3D Human Pose Estimation, supervised by [Jens Kober](https://www.tudelft.nl/staff/j.kober/) and [Osama Mazhar](https://www.tudelft.nl/staff/o.mazhar/).
 
-Since 2019 September, I have commenced my MSc study at TU Delft, The Netherlands.
+Since September 2019, I have commenced my MSc study at TU Delft, The Netherlands.
 
 From 2014 to 2018 I was a bachelor student in Mechanical Engineering at [Nagoya University](http://www.nagoya-u.ac.jp/), Japan. My bachelor thesis was supervised by [Akihiro Sasoh](https://profs.provost.nagoya-u.ac.jp/view/html/100001792_en.html) in [Shock Wave and Space Propulsion Laboratory](http://akagi.nuae.nagoya-u.ac.jp/).
 
