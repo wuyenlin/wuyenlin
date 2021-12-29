@@ -2,7 +2,7 @@
 
 I am a software developer at Triple IT based in Alkmaar, The Netherlands.
 
-Tech stack: Python, MATLAB, Typescript.
+Tech stack: Python, MATLAB, Typescript, Strapi, MySQL.
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wuyenlin&show_icons=true,title_color=fff;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515)
